@@ -1,0 +1,6 @@
+.core-layout__viewport, 
+.presentation-container,
+.editor-canvas-container.has-sidebar div div
+{
+  --retool-canvas-sidebar-max-width: 360px!important;
+}
